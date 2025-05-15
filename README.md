@@ -5,11 +5,11 @@
 
 ### 🛡️ About Me
 
-- 🎓 B.Tech (Cyber Security) | 5th Sem | ABES Engineering College  
+- 🎓 B.Tech (Cyber Security) | 5th Sem | Central University of Jammu 
 - 🤝 Placement Coordinator | Founding Member of Sports Society 🏏⚽  
 - 👨‍💻 Passionate about Cybersecurity, AI/ML, Digital Forensics & Ethical Hacking  
 - 🔍 Currently exploring **AI in Security** | Building **Open Source Projects**  
-- 🏆 GATE 2025 CS Aspirant | Hands-on TryHackMe, Bug Bounty, and DFIR  
+- 🏆 GATE 2026 CS Aspirant | Hands-on TryHackMe, Bug Bounty, and DFIR  
 
 ---
 
