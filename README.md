@@ -1,59 +1,63 @@
-<h1 align="center">Hi 👋, I'm Syed Misbah Uddin</h1>
-<h3 align="center">Cybersecurity Enthusiast | AI/ML Learner | Final Year CSE (Cyber Security)</h3>
+<h1 align="center">Hi, I'm Syed Misbah Uddin 👋</h1>
+<p align="center">Cybersecurity Enthusiast| B.Tech (Cyber Security) 🎯</p>
 
 ---
 
-🎓 **B.Tech in Computer Science (Cyber Security)**  
-🛡️ Passionate about Ethical Hacking, Web Security, Digital Forensics, and AI in Cyber Defense  
-🌍 Currently Interning at NCFL / IFSO / Delhi Police  
-🚀 Seeking opportunities in Cybersecurity & AI-driven Security
+### 🛡️ About Me
+
+- 🎓 B.Tech (Cyber Security) | 5th Sem | ABES Engineering College  
+- 🤝 Placement Coordinator | Founding Member of Sports Society 🏏⚽  
+- 👨‍💻 Passionate about Cybersecurity, AI/ML, Digital Forensics & Ethical Hacking  
+- 🔍 Currently exploring **AI in Security** | Building **Open Source Projects**  
+- 🏆 GATE 2025 CS Aspirant | Hands-on TryHackMe, Bug Bounty, and DFIR  
 
 ---
 
-### 🛠️ Technologies & Tools
+### 🛠️ Tech Stack
 
-- Cybersecurity: `Burp Suite` • `Nmap` • `Wireshark` • `Metasploit` • `Autopsy`
-- Programming: `Python` • `C++` • `Bash` • `Secure Coding Practices`
-- ML/AI: `Scikit-learn` • `TensorFlow` • `Pandas` • `NumPy` • `Matplotlib`
-- Tools: `Git` • `Kali Linux` • `TryHackMe` • `Jupyter` • `Docker (Basic)`
-
----
-
-### 📂 Featured Projects
-
-🔸 [bug-bounty-practice](https://github.com/SyedMisbahGit/bug-bounty-practice)  
-OWASP-based web lab to simulate XSS, SQLi, and other common vulnerabilities.
-
-🔸 [ai-intrusion-detection](https://github.com/SyedMisbahGit/ai-intrusion-detection)  
-An AI-powered IDS to detect malicious traffic using ML models.
-
-🔸 [digital-forensics-tools](https://github.com/SyedMisbahGit/digital-forensics-tools)  
-Tools and scripts for forensic imaging, metadata extraction, and analysis.
-
-🔸 [tryhackme-certifications](https://github.com/SyedMisbahGit/tryhackme-certifications)  
-Tracking all my completed THM rooms and certifications (Offensive, Defensive, DFIR).
+- **Languages**: Python, C++, Bash, HTML/CSS, JavaScript (basic)
+- **CyberSec Tools**: Burp Suite, Nmap, Wireshark, Metasploit, Autopsy, John, Hydra, Netcat
+- **ML Libraries**: Scikit-learn, NumPy, Pandas, Matplotlib
+- **Platforms**: TryHackMe, CTFs, GitHub, Kali Linux, Ubuntu
+- **Soft Skills**: Team Leadership, Documentation, Research, Presentation
 
 ---
 
-### 📜 Certifications & Internships
+### 🚀 Projects
 
-- ✅ **C-DAC Noida** – Cyber Gyan Internship *(Ethical Hacking & Pen Testing)*  
-- ✅ **Central University of Jammu (w/ DRDO)** – Internship on **Web Security**  
-- ✅ **Delhi Police (IFSO-NCFL)** – Internship *(Ongoing)*  
-- ✅ **TryHackMe** Premium Progress  
-  - Offensive Security Intro • Defensive Security Intro  
-  - DFIR • Linux • Networking • OSI • Careers in Cyber
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🔐 [Bug Bounty Practice](https://github.com/SyedMisbahGit/bug-bounty-practice) | Intentionally vulnerable web app for XSS, SQLi, CSRF | HTML, JS |
+| 🧠 [AI-Based IDS](https://github.com/SyedMisbahGit/open-source-ids) | Intrusion Detection System using ML models | Python, Sklearn |
+| 🔎 [Password Strength Checker](https://github.com/SyedMisbahGit/password-strength-checker) | Checks password entropy & dictionary strength | Python |
+| 🧪 [Cybersecurity Labs](https://github.com/SyedMisbahGit/cybersecurity-labs) | TryHackMe + CTF + DFIR walkthroughs & scripts | Markdown, Scripts |
+| 🐍 [100 Python Projects](https://github.com/SyedMisbahGit/100-Python-Projects) *(Private)* | Practice repo with mini apps & tools | Python |
+
+---
+
+### 🏆 Certifications & Internships
+
+- 🔐 **Ethical Hacking & Pentesting** – CDAC Noida (Cyber Gyan)  
+- 🔍 **Web Security Research Internship** – Central University of Jammu (DRDO-guided)  
+- 🧪 **AI-Powered IDS Project** – Ongoing  
+- 📁 **Digital Forensics Practice** – TryHackMe & Labs  
+- 🔎 **Cybersecurity Internship** – NCFL / IFSO / Delhi Police *(Upcoming)*
 
 ---
 
-### 📬 Let's Connect
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/syedmisbahuddin)
-- 💻 [GitHub](https://github.com/SyedMisbahGit)
-- ✉️ `bytesyed@gmail.com`
-
----
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SyedMisbahGit&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SyedMisbahGit&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedMisbahGit&layout=compact&theme=radical" width="45%" />
 </p>
+
+---
+
+### 🔗 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/syedmisbahuddin)
+- 📂 [GitHub Projects](https://github.com/SyedMisbahGit)
+- 🌐 Personal Portfolio (Coming Soon…)
+
+---
