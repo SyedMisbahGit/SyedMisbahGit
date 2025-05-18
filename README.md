@@ -21,8 +21,7 @@
 ---
 
 ### 🎯 TryHackMe Progress
-
-[![TryHackMe](https://tryhackme-badges.vercel.app/api/bytesyed)](https://tryhackme.com/p/bytesyed)
+<img src="https://tryhackme-badges.s3.amazonaws.com/bytesyed.png" alt="Your Image Badge" />
 
 - 🔓 Exploring Web Exploitation, Privilege Escalation, and Red Team Labs  
 - 🔥 On a learning streak: hacking, breaking, building!
