@@ -1,4 +1,4 @@
-<h1 align="center">🔐 Syed Misbah Uddin</h1>
+<h1 align="center">Syed Misbah Uddin</h1>
 <p align="center"><strong>Cybersecurity Engineer in the Making | Threat Hunter | OSINT Detective | SOC Explorer</strong></p>
 
 ---
