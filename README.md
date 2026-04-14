@@ -1,34 +1,40 @@
-### Hi there, I'm Syed Misbah Uddin 👋
+# Syed Misbah Uddin
+### Security Analyst & Threat Hunter | Offensive Automation Engineer
 
-**Offensive Security Engineer | Security Researcher | Tool Developer**
+I bridge red team tooling with enterprise defense by engineering Python-based reconnaissance pipelines, executing large-scale EASM triage, and manipulating raw network traffic to evaluate infrastructure. 
 
-I specialize in **Web Application Security**, **Reconnaissance Automation**, and **Logic Flaw Detection**. My work focuses on building custom tooling to uncover hidden attack surfaces and breaking complex authentication flows (Google VRP).
-
----
-
-### 🚀 Current Focus
-- 🔭 **Threat Hunter Intern @ TechOwl InfoSec:** Managing Infrastructure Takedowns & ASM.
-- 🛠️ **Building Sentinel-X:** An offensive reconnaissance wrapper for bug bounty workflows.
-- 🔍 **Vulnerability Research:** Hunting on Google VRP (Triaged Critical 2FA Bypass).
+My core engineering focus lies at the intersection of **stateful execution guardrails**, **adversarial machine learning**, and **testing network egress boundaries**. I do not just run automated scans; I build the autonomous frameworks that execute them.
 
 ---
 
-### 🛠️ Arsenal & Projects
+### ⚙️ Core Architecture & Tooling
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Sentinel-X](https://github.com/SyedMisbahGit/Sentinel-X)** | Offensive Reconnaissance Wrapper for asset discovery and vulnerability mining. | `Python` `Bash` `Multithreading` |
-| **[AndroNet](https://github.com/SyedMisbahGit/AndroNet)** | **ISEA Hackathon Runner-Up**. Mobile packet forensics and DPI suite. | `Scapy` `Python` `Android` |
-| **[HYBRID-IDS-MCP](https://github.com/SyedMisbahGit/HYBRID-IDS-MCP)** | Machine Learning-based Intrusion Detection System (92% Accuracy). | `Scikit-Learn` `Python` `NetworkML` |
-| **[shomap](https://github.com/SyedMisbahGit/shomap)** | Automated infrastructure auditing using Shodan API. | `Shodan` `Python` `OSINT` |
+#### [KESTREL](https://github.com/SyedMisbahGit/Kestrel) | *Autonomous EASM & ML Intelligence Grid*
+A zero-cost, fully autonomous External Attack Surface Management framework designed to operate continuously without physical infrastructure. 
+* **Autonomous Execution:** Orchestrated via GitHub Actions and SQLite Write-Ahead Logging (WAL) for state persistence.
+* **Adversarial ML:** Utilizes a Shannon Entropy Engine for cryptographic secret extraction, integrated with a custom Random Forest Classifier to autonomously score findings and eliminate false positives.
+* **Contextual Risk Engine:** Maps vulnerabilities to network topology, dynamically elevating threat severity based on Lateral Pivot Risk (e.g., origin IPs unmasked behind WAFs).
+
+#### [HYBRID-IDS](https://github.com/SyedMisbahGit/HYBRID-IDS-MCP) | *Evasive Threat Detection Pipeline*
+A hybrid threat detection pipeline bridging traditional signature-based matching with Machine Learning to operate in high-noise environments.
+* **PCAP Telemetry:** Trained Random Forest classification models directly on complex, PCAP-derived network features.
+* **Evasion Mitigation:** Engineered specifically through deep statistical analysis of ICMP and TCP anomalies to optimize precision against evasive, application-layer network threats.
+
+#### [AndroNet](https://github.com/SyedMisbahGit/AndroNet) | *Mobile Packet Analyzer (ISEA Hackathon Runner-Up)*
+A custom network telemetry tool and native Deep Packet Inspection (DPI) engine.
+* **Dynamic Flow Analysis:** Utilizes the Python Scapy library to capture and parse complex, multi-layered TCP/IP sessions.
+* **C2 Detection:** Features custom-programmed traffic analyzers designed to isolate and identify anomalous Command & Control (C2) beaconing patterns on mobile networks.
 
 ---
 
-### 📊 GitHub Stats
-![Syed's GitHub stats](https://github-readme-stats.vercel.app/api?username=SyedMisbahGit&show_icons=true&theme=dark&hide_border=true)
+### 🔬 Research & Development (Upcoming)
+
+#### SpecterDNS | *Steganographic DoH Exfiltration Engine*
+*(Currently in Active Development)*
+Architecting a covert data exfiltration channel designed to test enterprise egress boundaries. SpecterDNS encapsulates AES-encrypted payloads within standard HTTPS GET requests directed at public DNS-over-HTTPS (DoH) resolvers. By implementing a steganographic dictionary-based translation algorithm, it spoofs encrypted data chunks as legitimate API subdomains, systematically blinding standard Deep Packet Inspection (DPI) and stateless egress firewalls.
 
 ---
 
-### 📫 Connect
-- **LinkedIn:** [linkedin.com/in/bytesyed](https://linkedin.com/in/bytesyed)
-- **HackerOne:** [bytesyed](https://hackerone.com/bytesyed)
+### 📫 Secure Comms
+* **LinkedIn:** [linkedin.com/in/bytesyed](https://linkedin.com/in/bytesyed)
+* **Vulnerability Research:** Active on HackerOne and enterprise VDPs.
